@@ -1,0 +1,13 @@
+C:\Users\zac\source\repos\EnumeratedTypes\EnumeratedTypes.app\bin\Debug\netcoreapp3.1\EnumeratedTypes.app.exe
+C:\Users\zac\source\repos\EnumeratedTypes\EnumeratedTypes.app\bin\Debug\netcoreapp3.1\EnumeratedTypes.app.deps.json
+C:\Users\zac\source\repos\EnumeratedTypes\EnumeratedTypes.app\bin\Debug\netcoreapp3.1\EnumeratedTypes.app.runtimeconfig.json
+C:\Users\zac\source\repos\EnumeratedTypes\EnumeratedTypes.app\bin\Debug\netcoreapp3.1\EnumeratedTypes.app.runtimeconfig.dev.json
+C:\Users\zac\source\repos\EnumeratedTypes\EnumeratedTypes.app\bin\Debug\netcoreapp3.1\EnumeratedTypes.app.dll
+C:\Users\zac\source\repos\EnumeratedTypes\EnumeratedTypes.app\bin\Debug\netcoreapp3.1\EnumeratedTypes.app.pdb
+C:\Users\zac\source\repos\EnumeratedTypes\EnumeratedTypes.app\obj\Debug\netcoreapp3.1\EnumeratedTypes.app.csprojAssemblyReference.cache
+C:\Users\zac\source\repos\EnumeratedTypes\EnumeratedTypes.app\obj\Debug\netcoreapp3.1\EnumeratedTypes.app.AssemblyInfoInputs.cache
+C:\Users\zac\source\repos\EnumeratedTypes\EnumeratedTypes.app\obj\Debug\netcoreapp3.1\EnumeratedTypes.app.AssemblyInfo.cs
+C:\Users\zac\source\repos\EnumeratedTypes\EnumeratedTypes.app\obj\Debug\netcoreapp3.1\EnumeratedTypes.app.csproj.CoreCompileInputs.cache
+C:\Users\zac\source\repos\EnumeratedTypes\EnumeratedTypes.app\obj\Debug\netcoreapp3.1\EnumeratedTypes.app.dll
+C:\Users\zac\source\repos\EnumeratedTypes\EnumeratedTypes.app\obj\Debug\netcoreapp3.1\EnumeratedTypes.app.pdb
+C:\Users\zac\source\repos\EnumeratedTypes\EnumeratedTypes.app\obj\Debug\netcoreapp3.1\EnumeratedTypes.app.genruntimeconfig.cache
